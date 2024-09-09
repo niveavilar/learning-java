@@ -10,12 +10,12 @@ import java.net.http.HttpResponse;
 
 public class FindingCep {
 
-    public Address achandoEndereco (String cep) {
-        String endereco = "https://viacep.com.br/ws/" + cep + "/json/";
+    public Address FindingAddress (String cep) {
+        String url = "https://viacep.com.br/ws/" + cep + "/json/";
         try {
             HttpClient client = HttpClient.newHttpClient();
             HttpRequest request = HttpRequest.newBuilder()
-                    .uri(URI.create(endereco))
+                    .uri(URI.create(url))
                     .header("Accept", "application/vnd.github.v3+json")
                     .build();
             HttpResponse<String> response = client
@@ -23,22 +23,22 @@ public class FindingCep {
 
 
             if (response.statusCode() == 400) {
-                throw new FormatoInvalidoException("Formato de cep invalido. Por favor insira apenas numeros, " +
-                        "8 digitos, sem espacos ou hifens");
+                throw new InvalidFormatException("Invalid cep format. Please type only numbers, " +
+                        "8 digits, no spaces or hifens");
             }
             String json = response.body();
             Gson gson = new Gson();
             Address address = gson.fromJson(json, Address.class);
 
             if (address.erro() != null) {
-                throw new FormatoInvalidoException("CEP não encontrado. Por favor, verifique o CEP e tente novamente.");
+                throw new InvalidFormatException("CEP not found. Please, verify the CEP and try again.");
             }
 
             return address;
         }
 
         catch (IOException | InterruptedException e) {
-            throw new RuntimeException("Erro ao buscar o CEP: " + e.getMessage());
+            throw new RuntimeException("Error while searching for CEP: " + e.getMessage());
         }
     }
 }

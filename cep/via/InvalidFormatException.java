@@ -1,9 +1,9 @@
 package cep.via;
 
-public class FormatoInvalidoException extends RuntimeException {
+public class InvalidFormatException extends RuntimeException {
     private String message;
 
-    public FormatoInvalidoException(String message) {
+    public InvalidFormatException(String message) {
         this.message = message;
     }
 
