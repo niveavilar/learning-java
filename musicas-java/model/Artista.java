@@ -1,4 +1,8 @@
-public class Artista {
+package model;
+
+import interfaces.CalculadoraDeDuracao;
+import model.Musica;
+public class Artista implements CalculadoraDeDuracao {
     private String nome;
     private String genero;
 
@@ -20,6 +24,7 @@ public class Artista {
     }
 
     public void setGenero(String novoGenero) {
+
         this.genero = novoGenero;
     }
 }
