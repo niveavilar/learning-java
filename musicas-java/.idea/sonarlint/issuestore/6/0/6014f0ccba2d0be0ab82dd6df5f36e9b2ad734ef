@@ -1,11 +1,7 @@
 
-–
-java:S1104"SMake musicas a static final constant or non-public and provide accessors if needed.(È¡Åå8ê¦ÎÉŠ3J$e763c7c0-3a13-4016-a4b5-c5cd8f902aca
-p
-java:S1444"-Make this "public static musicas" field final(È¡Åå8ë¦ÎÉŠ3J$13783aff-621a-427d-937e-47cfd764c04e
-`
-java:S2386"Make this member "protected".(È¡Åå8ì¦ÎÉŠ3J$ef754b04-c8b1-467f-aa43-5227823dea57
-m	java:S106,"+Replace this use of System.out by a logger.(ß¢ÜÝ8ð¦ÎÉŠ3J$40023c0e-7764-4e0d-8e62-6d158cf96974
-r	java:S106."+Replace this use of System.out by a logger.(”ž­Ûýÿÿÿÿ8ð¦ÎÉŠ3J$da4637d5-6e70-4aee-843e-9390f8ab4e10
+m	java:S106+"+Replace this use of System.out by a logger.(ß¢ÜÝ8Ò™‘ô°3J$eebf074c-ac09-40aa-91b2-97653fcf50fb
+r	java:S106-"+Replace this use of System.out by a logger.(”ž­Ûýÿÿÿÿ8Õ™‘ô°3J$5d7a4ce0-a7f1-4ed0-9329-7164769fac3e
+
+java:S1128"<Remove this unused import 'interfaces.CalculadoraDeDuracao'.(ƒš±Ð8×™‘ô°3J$f87055a0-fad3-42aa-af05-c5b6e99dcaab
 }
-java:S1068":Remove this unused "totalDuracaoPorArtista" private field.(›îå²8ô¦ÎÉŠ3J$6e26cb99-32e3-4ea2-95aa-7d6e8015957e
+java:S1068":Remove this unused "totalDuracaoPorArtista" private field.(›îå²8Ø™‘ô°3J$fd33643d-9a3f-4d03-8a89-f7308aa3799b

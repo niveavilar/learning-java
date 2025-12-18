@@ -1,8 +1,8 @@
 package model;
 
-import interfaces.CalculadoraDeDuracao;
-import model.Musica;
-public class Artista implements CalculadoraDeDuracao {
+import java.util.List;
+
+public class Artista {
     private String nome;
     private String genero;
 

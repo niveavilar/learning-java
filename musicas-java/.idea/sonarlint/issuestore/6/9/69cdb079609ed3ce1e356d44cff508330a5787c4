@@ -1,11 +1,14 @@
 
 ]
-java:S1220""Move this file to a named package.8¬ŞØË‰3J$c290c4c8-8cb5-41f5-b8fa-2d87481d8fad
+java:S1220""Move this file to a named package.8şÏô°3J$6f7f439f-2e61-46e5-8e9e-b96b4831cb9f
+l
+java:S1192"JDefine a constant instead of duplicating this literal " segundos" 3 times.(ä¨ÔÜùÿÿÿÿ8Ä›Ğô°3
 …
-java:S1854"=Remove this useless assignment to local variable "loveStory".(·÷óÍüÿÿÿÿ8³ŞØË‰3J$d623c21c-83f8-455c-955c-879d8a153a03
+java:S1854"=Remove this useless assignment to local variable "loveStory".(·÷óÍüÿÿÿÿ8ŠŸÏô°3J$8f64eae9-293e-45b1-b4ce-e6a12cc2a49c
 v
-java:S1481".Remove this unused "loveStory" local variable.(·÷óÍüÿÿÿÿ8µŞØË‰3J$a654542e-e3ca-416d-ad27-a2d43076758a
-m	java:S106
-"+Replace this use of System.out by a logger.(ß“Áì8¶ŞØË‰3J$31a690b4-8aca-4f02-a5a1-8c1358c64a62
-r	java:S106"+Replace this use of System.out by a logger.(¡†äúÿÿÿÿ8¶ŞØË‰3J$69a0012f-eea0-4836-93cf-269f878063f5
-m	java:S106"+Replace this use of System.out by a logger.(­ô¨©8·ŞØË‰3J$7e724273-9d00-48db-845a-b291ebd92a49
+java:S1481".Remove this unused "loveStory" local variable.(·÷óÍüÿÿÿÿ8‹ŸÏô°3J$c09b489e-f95e-4fdc-ba93-53f88f06bba8
+m	java:S106"+Replace this use of System.out by a logger.(ß“Áì8ŸÏô°3J$918a2d51-36c3-4a24-92e1-45262cfeb9bf
+r	java:S106"+Replace this use of System.out by a logger.(¡†äúÿÿÿÿ8“ŸÏô°3J$2444a6cd-74ec-486b-b596-602c14a79b57
+r	java:S106"+Replace this use of System.out by a logger.(ä¨ÔÜùÿÿÿÿ8—ŸÏô°3J$772e8c1a-9d36-4862-a1d2-1e9251276384
+r	java:S106"+Replace this use of System.out by a logger.(Ùåğİşÿÿÿÿ8ŸÏô°3J$2310f40a-5f4b-4f14-acc7-5e1bb9051c44
+m	java:S106"+Replace this use of System.out by a logger.(ã¡„Õ8ŸÏô°3J$fc3a62d6-353d-4f0a-a727-e45fe73b42f7

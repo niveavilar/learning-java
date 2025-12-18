@@ -1,6 +1,10 @@
 
 ]
-java:S1220""Move this file to a named package.8€‘Ø®‡3J$474f4465-b654-4e14-b1e9-002fefc5a086
+java:S1220""Move this file to a named package.8¬ŞØË‰3J$ac2ee38a-6156-4189-a498-13f8df119c13
+…
+java:S1854"=Remove this useless assignment to local variable "loveStory".(·÷óÍüÿÿÿÿ8³ŞØË‰3J$d308f02a-2abd-41d8-b487-741deda708f6
+v
+java:S1481".Remove this unused "loveStory" local variable.(·÷óÍüÿÿÿÿ8µŞØË‰3J$db101418-73b6-4efc-9287-7aaa143f220b
 m	java:S106
-"+Replace this use of System.out by a logger.(ß“Áì8Š‘Ø®‡3J$c8ef1d8b-7089-4999-a969-a793b720aae1
-r	java:S106"+Replace this use of System.out by a logger.(¡†äúÿÿÿÿ8Š‘Ø®‡3J$7370203d-b46f-41c3-87c6-9f3384b416e5
+"+Replace this use of System.out by a logger.(ß“Áì8¶ŞØË‰3J$edb4d673-0127-4c0f-893d-270dc8698eda
+r	java:S106"+Replace this use of System.out by a logger.(¡†äúÿÿÿÿ8¶ŞØË‰3J$657d7323-454c-4ecd-85e8-4137849df196

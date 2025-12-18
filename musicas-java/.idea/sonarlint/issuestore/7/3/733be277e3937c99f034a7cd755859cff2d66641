@@ -1,8 +1,0 @@
-
-V
-java:S1220""Move this file to a named package.J$dca8a9a6-4237-483b-b095-2ae0cea90362
-„
-java:S1854"ARemove this useless assignment to local variable "artistaFiltro".(¢ÛŞ8÷€îË‰3J$6e8d6c76-b8e2-49d9-b96a-0a1fbc11674a
-r	java:S106"+Replace this use of System.out by a logger.(…÷Ãøÿÿÿÿ8…ÄëË‰3J$0de0b8b1-88fb-4aa8-867f-71a696b15023
-O
-java:S1481"2Remove this unused "artistaFiltro" local variable.(¢ÛŞ8’˜ïË‰3

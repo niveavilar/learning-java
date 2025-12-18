@@ -1,11 +1,9 @@
 package interfaces;
 
-public interface CalculadoraDeDuracao {
-    static int duracaoMusicas() {
-        return 0;
-    }
+import model.Musica;
 
-    static int duracaoMusicasPorArtista() {
-        return 0;
-    }
+import java.util.List;
+
+public interface CalculadoraDeDuracao {
+    int calcular(List<Musica> musicas);
 }
