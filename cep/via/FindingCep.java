@@ -16,7 +16,6 @@ public class FindingCep {
             HttpClient client = HttpClient.newHttpClient();
             HttpRequest request = HttpRequest.newBuilder()
                     .uri(URI.create(url))
-                    .header("Accept", "application/vnd.github.v3+json")
                     .build();
             HttpResponse<String> response = client
                     .send(request, HttpResponse.BodyHandlers.ofString());
@@ -30,7 +29,7 @@ public class FindingCep {
             Gson gson = new Gson();
             Address address = gson.fromJson(json, Address.class);
 
-            if (address.erro() != null) {
+            if (Boolean.TRUE.equals(address.erro())) {
                 throw new InvalidFormatException("CEP not found. Please, verify the CEP and try again.");
             }
 
