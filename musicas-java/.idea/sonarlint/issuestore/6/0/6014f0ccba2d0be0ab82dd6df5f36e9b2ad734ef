@@ -1,7 +1,7 @@
 
-m	java:S106+"+Replace this use of System.out by a logger.(ß¢ÜÝ8Ò™‘ô°3J$eebf074c-ac09-40aa-91b2-97653fcf50fb
-r	java:S106-"+Replace this use of System.out by a logger.(”ž­Ûýÿÿÿÿ8Õ™‘ô°3J$5d7a4ce0-a7f1-4ed0-9329-7164769fac3e
+m	java:S106+"+Replace this use of System.out by a logger.(ß¢ÜÝ8Ò™‘ô°3J$e026874f-9071-43de-95bb-7fbbd0994828
+r	java:S106-"+Replace this use of System.out by a logger.(”ž­Ûýÿÿÿÿ8Õ™‘ô°3J$c30d9387-45f1-4445-9988-445b69440e3f
 
-java:S1128"<Remove this unused import 'interfaces.CalculadoraDeDuracao'.(ƒš±Ð8×™‘ô°3J$f87055a0-fad3-42aa-af05-c5b6e99dcaab
+java:S1128"<Remove this unused import 'interfaces.CalculadoraDeDuracao'.(ƒš±Ð8×™‘ô°3J$fa07af46-02ca-4736-8ded-8524a61556e4
 }
-java:S1068":Remove this unused "totalDuracaoPorArtista" private field.(›îå²8Ø™‘ô°3J$fd33643d-9a3f-4d03-8a89-f7308aa3799b
+java:S1068":Remove this unused "totalDuracaoPorArtista" private field.(›îå²8Ø™‘ô°3J$248a0718-58f7-48b7-950b-34b934e6e61d

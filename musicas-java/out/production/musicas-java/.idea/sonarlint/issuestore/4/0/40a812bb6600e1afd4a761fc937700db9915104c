@@ -1,0 +1,22 @@
+
+
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Èôıq8ÂÍäÁ»3J$580d3179-6b48-4712-a88d-370078abc1c0
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èôıq8ÓÍäÁ»3J$eb276cac-b392-453c-9de5-50408257af9b
+„
+java:S1854"<Remove this useless assignment to local variable "solteiro".(¡”é‡ùÿÿÿÿ8ÖÍäÁ»3J$9fac42c3-a267-4bcc-85b9-0da545b10daa
+}
+java:S1854":Remove this useless assignment to local variable "sinais".(çãëÅ8ÖÍäÁ»3J$8470e3b8-a861-45a7-9772-82273fa8d960
+…
+java:S1854"=Remove this useless assignment to local variable "loveStory".(·÷óÍüÿÿÿÿ8ÖÍäÁ»3J$01a507d4-8744-4e4a-8170-1ddf122ce5b0
+ƒ
+java:S1854";Remove this useless assignment to local variable "meteoro".(ì–Â­úÿÿÿÿ8ÖÍäÁ»3J$69cf9084-abd7-4a6b-a807-a173a045bf9a
+t
+java:S1481",Remove this unused "meteoro" local variable.(ì–Â­úÿÿÿÿ8éÍäÁ»3J$726c2b5f-58c1-4a27-a3fd-c0d0d1357945
+v
+java:S1481".Remove this unused "loveStory" local variable.(·÷óÍüÿÿÿÿ8êÍäÁ»3J$195d57ad-ae6b-4ce3-a784-7e45ed040c6d
+n
+java:S1481"+Remove this unused "sinais" local variable.(çãëÅ8ëÍäÁ»3J$7277dd40-beb4-4573-9e0c-d907ad6bc529
+u
+java:S1481"-Remove this unused "solteiro" local variable.(¡”é‡ùÿÿÿÿ8ëÍäÁ»3J$ce1f176f-41a6-439f-be93-5d56a563d37f
+s
+java:S5960"+Remove this assertion from production code.(Î®ü÷ùÿÿÿÿ8÷ÍäÁ»3J$ed97bca2-0f95-4057-bee2-949d4f3f27e4

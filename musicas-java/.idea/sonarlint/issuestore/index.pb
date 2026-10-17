@@ -15,11 +15,21 @@ R
 "services/CalculadoraPorGenero.java,f/3/f3eb15bfa5207302273cb9bfced6e5cf0f12fa03
 M
 services/FiltroDeMusicas.java,d/9/d938d00d1f16002ff8edce370f73de80dfcc0b0e
-V
-&services/FiltroDeMusicasPorGenero.java,8/1/817b18cf64894d4d1643bac0c12c3f95433f0a2e
 M
 services/FiltroPorGenero.java,0/2/0273b2ec274abfaaa5b6ac40ef976775bc614c8a
 N
 services/FiltroPorArtista.java,e/c/ec965a6e1a1142bd8526aca926515c1ab8c7ec0c
 N
 services/FiltroPorDuracao.java,4/4/441950eabd9b0fe6c390096afe0e266e442e0bf2
+T
+$services/CalculadoraMusicasTest.java,f/c/fc50342f90f224a79be15a42b8d0ac89c9ce43e6
+R
+"services/FiltroPorArtistaTest.java,6/a/6ad4d285d779b70f0398270044da03196a7aaaa6
+W
+'services/CalculadoraPorArtistaTest.java,1/f/1fe91bc577f5d4bdd270734b737ff27f7429d3a0
+V
+&services/CalculadoraPorGeneroTest.java,9/8/98fe71a3869b7a4f9547f94bcae1c81e7011221f
+R
+"services/FiltroPorDuracaoTest.java,4/0/40a812bb6600e1afd4a761fc937700db9915104c
+Q
+!services/FiltroPorGeneroTest.java,6/c/6ced113b49fbe08942af94599eee529bdb266bac

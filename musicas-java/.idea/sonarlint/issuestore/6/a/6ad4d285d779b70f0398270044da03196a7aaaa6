@@ -1,0 +1,25 @@
+
+
+java:S1192"MDefine a constant instead of duplicating this literal "Taylor Swift" 3 times.(ÅÉ“ˆ8äÀÃÁ»3J$fa4ad3ec-0ea1-4dea-8e1b-ce6bd7e23e12
+ˆ
+java:S1854"@Remove this useless assignment to local variable "newRomantics".(Ş›õûÿÿÿÿ8öÀÃÁ»3J$b64dcd06-a211-48fc-9dbb-ed2c03690c25
+„
+java:S1854"<Remove this useless assignment to local variable "solteiro".(¡”é‡ùÿÿÿÿ8öÀÃÁ»3J$d25bdd6b-2d8e-4160-8fea-29d4f7bf6240
+}
+java:S1854":Remove this useless assignment to local variable "sinais".(çãëÅ8öÀÃÁ»3J$755910ff-c088-468d-95f8-8ba82c4c2ced
+…
+java:S1854"=Remove this useless assignment to local variable "loveStory".(·÷óÍüÿÿÿÿ8öÀÃÁ»3J$96741019-c511-4965-8c84-f616f35b16b7
+ƒ
+java:S1854";Remove this useless assignment to local variable "meteoro".(ì–Â­úÿÿÿÿ8öÀÃÁ»3J$054abe0b-2d77-44da-834c-0ca43e766a0a
+t
+java:S1481",Remove this unused "meteoro" local variable.(ì–Â­úÿÿÿÿ8„ÁÃÁ»3J$14d472f7-045e-43d1-bd06-a310dab3c1b3
+v
+java:S1481".Remove this unused "loveStory" local variable.(·÷óÍüÿÿÿÿ8„ÁÃÁ»3J$0dc9033e-1a9e-4bf7-a51b-b67d13ffce32
+n
+java:S1481"+Remove this unused "sinais" local variable.(çãëÅ8…ÁÃÁ»3J$63ae60e4-86fb-432a-987b-6788866ca1b6
+u
+java:S1481"-Remove this unused "solteiro" local variable.(¡”é‡ùÿÿÿÿ8…ÁÃÁ»3J$ba27fc6e-5c77-45a7-933a-c48f9e5b59fe
+y
+java:S1481"1Remove this unused "newRomantics" local variable.(Ş›õûÿÿÿÿ8…ÁÃÁ»3J$0273b48e-c7e8-4de9-8592-84a3362ed41e
+s
+java:S5960"+Remove this assertion from production code.(Î®ü÷ùÿÿÿÿ8ÁÃÁ»3J$4b2a0082-d75c-4786-909f-b523d93456c6

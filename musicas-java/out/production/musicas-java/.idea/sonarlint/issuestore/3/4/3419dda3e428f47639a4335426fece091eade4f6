@@ -1,5 +1,3 @@
 
-Y
-java:S1128"<Remove this unused import 'interfaces.CalculadoraDeDuracao'.(ƒš±Ğ8ÓË‡ó°3
-œ
-java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Õ¿Åùÿÿÿÿ8ÑÌÈŠ3J$53784104-5620-45da-b78d-fcdecdf64da3
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8å¥çÁ²3J$d8123c47-ff83-489a-9861-95416759bc3e
